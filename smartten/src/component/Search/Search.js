@@ -28,7 +28,6 @@ const Search = () => {
 
     const handleLike = (postLiked) => {
         setPostIsLiked(postLiked);
-
     }
 
     useEffect(() => {
